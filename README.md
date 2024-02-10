@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ram</h1>
-<h3 align="center">Data Science Professional | Machine Learning Enthusiast | NLP Expert</h3>
+#Hi 👋, I'm Ram
+Data Science Professional | Machine Learning Enthusiast | NLP Expert
+
 🔭 *I’m currently working on:* Enhancing machine learning models for real-time applications in data analytics, with a focus on natural language processing (NLP) and deep learning. My recent projects include an AI stock investment advisor and a Trading based on news sentiment.<br><br>
 👯*I’m looking to collaborate on:* Projects involving advanced data science, machine learning, and AI, especially those that intersect with supply chain optimization, financial market analysis, and predictive modeling.<br><br>
 🤝 *I’m looking for help with:* Scaling machine learning models efficiently using cloud technologies and containerization, and integrating complex data pipelines for robust data ingestion and processing.<br><br>
