@@ -1,4 +1,5 @@
-#Hi 👋, I'm Ram
+# Hi 👋, I'm Ram
+
 Data Science Professional | Machine Learning Enthusiast | NLP Expert
 
 🔭 *I’m currently working on:* Enhancing machine learning models for real-time applications in data analytics, with a focus on natural language processing (NLP) and deep learning. My recent projects include an AI stock investment advisor and a Trading based on news sentiment.<br><br>
