@@ -7,7 +7,6 @@ Data Science Professional | Machine Learning Enthusiast | NLP Expert
 🤝 *I’m looking for help with:* Scaling machine learning models efficiently using cloud technologies and containerization, and integrating complex data pipelines for robust data ingestion and processing.<br><br>
 🌱 *I’m currently learning:* Advanced techniques in deep learning, specifically for improving NLP applications and predictive analytics, as well as exploring new methodologies in AI-driven investment strategies.<br><br>
 💬 *Ask me about:* Anything related to data science, machine learning algorithms, statistical modeling, NLP, cloud computing solutions for data analytics, and how to leverage data for strategic decision-making.<br><br>
-⚡ *Fun fact:* My sentiment-based trading algorithm can predict stock market movements with a 97% accuracy rate by analyzing news sentiment, showcasing the powerful intersection of finance and AI.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-polisetti) 
