@@ -3,7 +3,7 @@
 Data Science Professional | Machine Learning Expert | NLP Enthusiast
 
 🔭 *I’m currently working on:* Enhancing machine learning models for real-time applications in data analytics, with a focus on natural language processing (NLP) and deep learning. My recent projects include an AI stock investment advisor and a Trading based on news sentiment.<br><br>
-👯*I’m looking to collaborate on: * Projects involving advanced data science, machine learning, and AI, especially those that intersect with supply chain optimization, financial market analysis, and predictive modeling.<br><br>
+👯*I’m looking to collaborate on:* Projects involving advanced data science, machine learning, and AI, especially those that intersect with supply chain optimization, financial market analysis, and predictive modeling.<br><br>
 🤝 *I’m looking for help with:* Scaling machine learning models efficiently using cloud technologies and containerization, and integrating complex data pipelines for robust data ingestion and processing.<br><br>
 🌱 *I’m currently learning:* Advanced techniques in deep learning, specifically for improving NLP applications and predictive analytics, as well as exploring new methodologies in AI-driven investment strategies.<br><br>
 💬 *Ask me about:* Anything related to data science, machine learning algorithms, statistical modeling, NLP, cloud computing solutions for data analytics, and how to leverage data for strategic decision-making.<br><br>
