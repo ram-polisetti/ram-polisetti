@@ -48,8 +48,7 @@ Feel free to reach out if you want to discuss:
 - 📧 Email: rampolisettius@gmail.com
 - 💼 LinkedIn: [Ram Polisetti](https://www.linkedin.com/in/ram-polisetti)
 
-### 📊 GitHub Stats
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ram-polisetti&show_icons=true&theme=radical)
+
 
 
 
