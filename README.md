@@ -49,20 +49,9 @@ Feel free to reach out if you want to discuss:
 - 💼 LinkedIn: [Ram Polisetti](https://www.linkedin.com/in/ram-polisetti)
 
 ### 📊 GitHub Stats
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=rampolisetti&show_icons=true&theme=radical)
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=ram-polisetti&show_icons=true&theme=radical)
 
-### 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Databricks-informational?style=flat&logo=databricks&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Apache_Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 
-### 🏆 Featured Projects
-- [Big Data Analytics Pipeline](link-to-repo)
-- [Real-time ML Model Deployment](link-to-repo)
-- [NLP for Business Intelligence](link-to-repo)
 
 Ready to bring data-driven insights to your team! 🚀
 
@@ -74,7 +63,7 @@ Ready to bring data-driven insights to your team! 🚀
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
+![](https://img.shields.io/badge/Databricks-informational?style=flat&logo=databricks&logoColor=white&color=2bbc8a)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
